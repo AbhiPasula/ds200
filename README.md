@@ -14,7 +14,7 @@ The following data has been obtained from "https://data.gov.in" and plotted usin
 
 **a. Scatter Plot** 
 **Observation:** The scatter plot attached shows how the Export Quantity price of various Petroleum Products is varying over the years.
-!(images/figure_1.png)
+![Amount of Rainfall vs Years(from 1901-2017)](images/figure_1.png)
 
 **b. Box Plot**
 Box plot showing Petroleum products on x axis and Export Rs Value Terms on y axis
